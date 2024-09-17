@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Alejandro Portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
