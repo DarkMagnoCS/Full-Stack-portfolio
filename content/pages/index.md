@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: 'Hi, I''m Alejandro. I''m a full-Stack developer.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Hey there! I’ve been busy leveling up my skills with certifications in
+      Full Stack Development from IBM, Android Development from Meta, and DevOps
+      from AWS. Along the way, I’ve earned commendations from Google that
+      highlight my cloud expertise. Dive into the details below to see the
+      projects I’ve worked on and how I’ve built my skillset to become a dynamic
+      developer
     styles:
       self:
         height: auto
