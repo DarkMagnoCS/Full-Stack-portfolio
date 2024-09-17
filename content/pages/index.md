@@ -18,9 +18,7 @@ sections:
       Hey there! I’ve been busy leveling up my skills with certifications in
       Full Stack Development from IBM, Android Development from Meta, and DevOps
       from AWS. Along the way, I’ve earned commendations from Google that
-      highlight my cloud expertise. Dive into the details below to see the
-      projects I’ve worked on and how I’ve built my skillset to become a dynamic
-      developer
+      highlight my cloud expertise
     styles:
       self:
         height: auto
