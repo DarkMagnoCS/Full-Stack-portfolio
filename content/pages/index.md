@@ -74,7 +74,7 @@ sections:
       - type: Label
         label: Kotlin
         url: ''
-    colors: colors-f
+    colors: colors-b
     elementId: ''
     styles:
       self:
