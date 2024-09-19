@@ -4,7 +4,7 @@ title: Alejandro Portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/gallery-1.jpg
+  url: /images/night_city_long_exposure_road_140393_3840x2160.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
