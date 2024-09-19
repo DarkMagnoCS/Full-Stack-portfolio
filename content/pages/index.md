@@ -72,7 +72,7 @@ sections:
         label: Figma
         url: ''
       - type: Label
-        label: Swift
+        label: Kotlin
         url: ''
     colors: colors-f
     elementId: ''
