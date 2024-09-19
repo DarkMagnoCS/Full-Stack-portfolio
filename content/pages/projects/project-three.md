@@ -11,7 +11,7 @@ description: >-
   https://github.com/DarkMagnoCS/fullstack_developer_IBM
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/capstone-dealership-architecture.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
