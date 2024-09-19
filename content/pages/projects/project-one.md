@@ -7,6 +7,7 @@ client: NASA API project
 description: >-
   A react page using a NASA API to show weather report from  NASA’s InSight Mars
   lander.
+  https://github.com/DarkMagnoCS/Fourth-Rock-Weather/tree/main/mars-weather-hud
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
