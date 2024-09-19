@@ -10,7 +10,7 @@ description: >-
   profiles. https://github.com/DarkMagnoCS/Android-Capstone-Meta
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/menu.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
