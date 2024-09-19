@@ -69,7 +69,7 @@ sections:
         label: MongoDB
         url: ''
       - type: Label
-        label: C++
+        label: Figma
         url: ''
       - type: Label
         label: Swift
