@@ -5,9 +5,15 @@ colors: colors-a
 date: '2022-01-22'
 client: IBM
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This project showcases the creation of a comprehensive dealership
+  architecture  Landing Page: A fully deployed webpage where users can view and
+  interact with dealership information."About Us" Section: A dedicated section
+  that provides a detailed background of the dealership.Full CRUD Functionality:
+  Enables users to create, read, update, and delete dealership records
+  seamlessly.Database Integration: The project integrates with a relational
+  database to manage dealership records efficiently.API Integration: The
+  architecture includes endpoints for interacting with the backend via RESTful
+  API methods.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
