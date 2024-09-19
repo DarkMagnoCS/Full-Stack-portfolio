@@ -46,12 +46,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      url: /images/Profile.png
   - type: LabelsSection
     title: Skills
     subtitle: ''
