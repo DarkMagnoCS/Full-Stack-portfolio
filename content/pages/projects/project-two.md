@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Little Lemon Restaurant App
 colors: colors-a
-date: '0020-01-01'
+date: '2024-01-01'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
