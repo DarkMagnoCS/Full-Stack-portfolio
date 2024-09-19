@@ -7,7 +7,7 @@ client: Meta
 description: >-
   The app provides a food ordering interface for the Little Lemon restaurant,
   allowing users to browse the restaurant's menu, place orders, and manage their
-  profiles.
+  profiles. https://github.com/DarkMagnoCS/Android-Capstone-Meta
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
