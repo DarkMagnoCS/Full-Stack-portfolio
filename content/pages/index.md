@@ -18,7 +18,7 @@ sections:
       Hey there! I’ve been busy leveling up my skills with certifications in
       Full Stack Development from IBM, Android Development from Meta, and DevOps
       from AWS. Along the way, I’ve earned commendations from Google that
-      highlight my cloud expertise
+      highlight my expertise
     styles:
       self:
         height: auto
