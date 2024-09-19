@@ -4,7 +4,9 @@ title: Fourth-Rock-Weather
 colors: colors-a
 date: '2021-10-15'
 client: NASA API project
-description: A react page using a NASA API to show weather report from one of its landers
+description: >-
+  A react page using a NASA API to show weather report from  NASA’s InSight Mars
+  lander
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
