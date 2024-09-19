@@ -1,29 +1,119 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Little Lemon Restaurant App
 colors: colors-a
-date: '2021-12-20'
-client: Awesome client
+date: '2024-02-02'
+client: Meta
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  The app provides a food ordering interface for the Little Lemon restaurant,
+  allowing users to browse the restaurant's menu, place orders, and manage their
+  profiles. https://github.com/DarkMagnoCS/Android-Capstone-Meta
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/menu.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Login.png
   altText: Project image
 ---
+## Features
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+*   **Onboarding Screen**: Users are prompted to enter personal details for registration.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **Stack Navigation**: Allows users to move between screens using the back button.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   **Home Screen**: Displays a header, hero section with restaurant information, category-based menu breakdown, and a detailed list of food items.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*   **Profile Screen**: Displays and allows editing of the user’s details, with changes retained across sessions.
+
+*   **Persistent User Data**: The profile data and menu items are fetched from a remote server and saved locally.
+
+*   **Filter Menu Items**: Users can search for and filter items based on different categories like Starters, Mains, Desserts, and Drinks.
+
+## Wireframe
+
+
+
+The app's Home screen is based on the following wireframe:
+
+
+
+## Screens Overview
+
+
+
+### Onboarding Screen
+
+
+
+The onboarding flow is presented the first time the app is launched. Users are required to input their **First Name**, **Last Name**, and **Email Address**. The screen contains:
+
+*   Three **TextFields** for user input.
+
+*   A **Register Button** that navigates the user to the Home screen upon submission.
+
+### Home Screen
+
+
+
+After registration, users are redirected to the Home screen. The screen is structured into the following sections:
+
+*   **Hero Section**: Displays the restaurant name, location, and a short description. Includes a **Search Bar** to filter menu items.
+
+*   **Menu Breakdown**: Includes category buttons for **Starters**, **Mains**, **Desserts**, and **Drinks**.
+
+*   **Food Menu List**: Displays dishes with a title, description, image, and price, all fetched from a remote server.
+
+### Profile Screen
+
+
+
+Users can view and edit their profile details on this screen. It includes:
+
+*   Three **TextFields** showing user information.
+
+*   Labels explaining each field.
+
+*   A **Logout Button** that signs the user out of the app.
+
+## Functionality Breakdown
+
+
+
+1.  **Onboarding Flow**:
+
+    *   New users are prompted to provide personal details (first name, last name, email).
+
+    *   A **Register Button** submits the data and navigates the user to the Home screen.
+
+2.  **Home Screen**:
+
+    *   Contains restaurant details in the hero section.
+
+    *   A **Search Bar** filters the menu items dynamically.
+
+    *   Menu items are displayed in a scrollable list, divided by category buttons.
+
+3.  **Profile Screen**:
+
+    *   Displays editable user data.
+
+    *   Includes a **Logout Button** to sign out of the app.
+
+## Project Details
+
+
+
+This project showcases fundamental Android app development skills, including:
+
+*   **Jetpack Compose**: Used for building the UI components.
+
+*   **Remote Data Fetching**: Menu items are fetched from a remote server and stored locally for offline use.
+
+*   **Navigation**: Implemented using a stack-based navigation flow to move between screens.
+
+
+

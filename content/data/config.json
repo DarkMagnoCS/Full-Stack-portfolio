@@ -17,26 +17,14 @@
                 "type": "Link",
                 "label": "Projects",
                 "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/DarkMagnoCS",
                 "icon": "github"
             }
         ],
@@ -88,7 +76,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }

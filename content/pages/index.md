@@ -4,7 +4,7 @@ title: Alejandro Portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/gallery-1.jpg
+  url: /images/night_city_long_exposure_road_140393_3840x2160.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -18,7 +18,7 @@ sections:
       Hey there! I’ve been busy leveling up my skills with certifications in
       Full Stack Development from IBM, Android Development from Meta, and DevOps
       from AWS. Along the way, I’ve earned commendations from Google that
-      highlight my cloud expertise
+      highlight my expertise
     styles:
       self:
         height: auto
@@ -48,33 +48,36 @@ sections:
     actions: []
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Python
+        url: ''
+      - type: Label
+        label: JavaScript
         url: ''
       - type: Label
         label: React
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Kotlin
+        url: ''
+      - type: Label
+        label: Flask
         url: ''
       - type: Label
         label: Next.js
         url: ''
       - type: Label
-        label: Netlify
+        label: MongoDB
         url: ''
       - type: Label
-        label: Pancakes
+        label: Figma
         url: ''
       - type: Label
-        label: C++
+        label: Git
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
-    colors: colors-f
+    colors: colors-b
     elementId: ''
     styles:
       self:

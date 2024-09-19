@@ -1,29 +1,86 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Dealership Architecture Capstone
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: IBM
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  This project showcases the creation of a comprehensive dealership
+  architecture. Full CRUD Functionality: Enables users to create, read, update,
+  and delete dealership records seamlessly.
+  https://github.com/DarkMagnoCS/fullstack_developer_IBM
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/capstone-dealership-architecture.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/get_dealers_loggedin.png
   altText: Project image
 ---
+# Dealership Architecture Capstone Project
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+This project showcases the creation of a comprehensive **dealership architecture** with the following key components:
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **Dealership Landing Page**: A fully deployed webpage where users can view and interact with dealership information.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   **"About Us" Section**: A dedicated section that provides a detailed background of the dealership.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*   **Full CRUD Functionality**: Enables users to **create**, **read**, **update**, and **delete** dealership records seamlessly.
+
+*   **Database Integration**: The project integrates with a relational database to manage dealership records efficiently.
+
+*   **API Integration**: The architecture includes endpoints for interacting with the backend via **RESTful API** methods.
+
+## Technologies Used
+
+
+
+*   **Python**: Used for backend development.
+
+*   **Flask**: Handles the web server logic and routing.
+
+*   **HTML/CSS**: Frontend structure and styling.
+
+*   **JavaScript**: Adds interactivity to the webpage.
+
+*   **PostgreSQL**: Manages the relational database for storing dealership records.
+
+*   **Docker**: Used to containerize the project, ensuring a consistent environment.
+
+## Key Features
+
+
+
+*   **Landing Page**: A visually appealing webpage displaying the dealership’s inventory, with options to filter and search for vehicles.
+
+*   **Inventory Management**: Backend support for managing car inventory, including options for **adding**, **updating**, **deleting**, and **viewing** cars.
+
+*   **Search and Filtering**: Users can search cars by make, model, or year and filter the inventory based on various criteria.
+
+*   **Admin Panel**: Allows admin users to manage dealership and inventory records securely.
+
+## Screenshots
+
+
+
+    
+
+## API Endpoints
+
+
+
+The project exposes the following API endpoints for interacting with the dealership database:
+
+*   `GET /api/cars`: Retrieves the list of cars in the inventory.
+
+*   `POST /api/cars`: Adds a new car to the inventory.
+
+*   `PUT /api/cars/<id>`: Updates details of an existing car.
+
+*   `DELETE /api/cars/<id>`: Removes a car from the inventory.
+
+
+
