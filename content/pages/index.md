@@ -54,6 +54,9 @@ sections:
         label: Python
         url: ''
       - type: Label
+        label: JavaScript
+        url: ''
+      - type: Label
         label: React
         url: ''
       - type: Label
@@ -61,9 +64,6 @@ sections:
         url: ''
       - type: Label
         label: Next.js
-        url: ''
-      - type: Label
-        label: JavaScript
         url: ''
       - type: Label
         label: MongoDB
