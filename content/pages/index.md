@@ -74,6 +74,9 @@ sections:
       - type: Label
         label: Figma
         url: ''
+      - type: Label
+        label: Git
+        url: ''
     colors: colors-b
     elementId: ''
     styles:
