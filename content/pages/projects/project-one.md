@@ -10,7 +10,7 @@ description: >-
   https://github.com/DarkMagnoCS/Fourth-Rock-Weather/tree/main/mars-weather-hud
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/images.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
