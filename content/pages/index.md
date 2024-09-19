@@ -60,6 +60,9 @@ sections:
         label: React
         url: ''
       - type: Label
+        label: Kotlin
+        url: ''
+      - type: Label
         label: Flask
         url: ''
       - type: Label
@@ -70,9 +73,6 @@ sections:
         url: ''
       - type: Label
         label: Figma
-        url: ''
-      - type: Label
-        label: Kotlin
         url: ''
     colors: colors-b
     elementId: ''
