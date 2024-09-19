@@ -66,7 +66,7 @@ sections:
         label: JavaScript
         url: ''
       - type: Label
-        label: Pancakes
+        label: MongoDB
         url: ''
       - type: Label
         label: C++
