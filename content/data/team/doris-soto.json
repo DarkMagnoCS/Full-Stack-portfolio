@@ -4,7 +4,7 @@
     "lastName": "Contreras",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
+        "url": "/images/profile_picture.jpg",
         "altText": "photo"
     },
     "role": "FullStack"
