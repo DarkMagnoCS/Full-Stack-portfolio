@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/favicon.ico",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -46,7 +46,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:alejandro.magno.cs@gmail.com",
                 "altText": ""
             },
             {
@@ -58,8 +58,8 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/DarkMagnoCS",
+                "altText": "https://github.com/DarkMagnoCS"
             }
         ],
         "contacts": {
@@ -72,7 +72,7 @@
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "Hosted by [Netlify](https://www.netlify.com/platform/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
