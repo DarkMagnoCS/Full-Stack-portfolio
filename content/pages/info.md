@@ -125,7 +125,7 @@ sections:
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
+        label: Kotlin
       - type: Label
         label: Pancakes
       - type: Label
