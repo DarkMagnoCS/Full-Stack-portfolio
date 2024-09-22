@@ -26,14 +26,6 @@
                 "label": "GitHub",
                 "url": "https://github.com/DarkMagnoCS",
                 "icon": "github"
-            },
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "www.linkedin.com/in/alejandro-contreras-sanguino/",
-                "icon": "linkedin",
-                "elementId": ""
             }
         ],
         "styles": {
