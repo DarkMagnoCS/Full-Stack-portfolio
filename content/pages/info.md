@@ -127,7 +127,7 @@ sections:
       - type: Label
         label: Kotlin
       - type: Label
-        label: Pancakes
+        label: Flask
       - type: Label
         label: C++
       - type: Label
