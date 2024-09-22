@@ -74,7 +74,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: www.linkedin.com/in/alejandro-contreras-sanguino
         styles:
           self:
             textAlign: left
