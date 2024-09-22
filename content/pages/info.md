@@ -193,13 +193,13 @@ sections:
           **2024 IBM / Coursera**
 
 
-          *   FULL STACK DEVELOPER SPECIALIZATION 
+          *   FULL STACK DEVELOPER SPECIALIZATION
 
 
           **2024 Meta / Coursera**
 
 
-          *   ANDROID DEVELOPER SPECIALIZATION 
+          *   ANDROID DEVELOPER SPECIALIZATION
 
 
           **2024 AWS / Coursera**
@@ -218,8 +218,8 @@ sections:
           **2009-2015 Colegio Franciscano Maria Auxiliadora**
 
 
-          *   agricultural technician specialized in promotion and environmental
-          management
+          *   Agricultural Technician Specialized in Promotion and Environmental
+          Management
 
         styles:
           self:
