@@ -26,6 +26,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/DarkMagnoCS",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "LinkedInn",
+                "altText": "",
+                "url": "www.linkedin.com/in/alejandro-contreras-sanguino/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -51,12 +59,6 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/DarkMagnoCS",
                 "altText": "https://github.com/DarkMagnoCS"
@@ -65,14 +67,14 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "(+598) 97989255",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "alejandro.magno.cs@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Buceo, Montevideo. UY",
             "addressAltText": "My address"
         },
-        "copyrightText": "Hosted by [Netlify](https://www.netlify.com/platform/)\n",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
