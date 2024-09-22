@@ -19,9 +19,6 @@ sections:
       martial artist, calisthenics enthusiast, and ex-musician. When I’m not
       coding or creating, I like going out on my rollerblades down the beach.
 
-    media:
-      type: ImageBlock
-      altText: Hero image
     styles:
       self:
         height: auto
