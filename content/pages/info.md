@@ -132,6 +132,9 @@ sections:
         label: MongoDB
       - type: Label
         label: Figma
+      - type: Label
+        label: Git
+        url: ''
   - type: DividerSection
     styles:
       self:
