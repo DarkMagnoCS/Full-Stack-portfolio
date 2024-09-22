@@ -189,18 +189,38 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **2024 IBM / Coursera**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   FULL STACK DEVELOPER SPECIALIZATION 
 
-          * react certificate somewhere
 
-          **2011**
+          **2024 Meta / Coursera**
 
-          * my highschool
+
+          *   ANDROID DEVELOPER SPECIALIZATION 
+
+
+          **2024 AWS / Coursera**
+
+
+          *   DEVOPS ON AWS
+
+
+          **2017-2018 (inconclusive) Universidad Nacional Experimental del
+          Táchira UNET**
+
+
+          *   Mechanical Engineering
+
+
+          **2009-2015 Colegio Franciscano Maria Auxiliadora**
+
+
+          *   agricultural technician specialized in promotion and environmental
+          management
+
         styles:
           self:
             textAlign: left
