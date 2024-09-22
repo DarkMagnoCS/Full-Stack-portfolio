@@ -129,7 +129,7 @@ sections:
       - type: Label
         label: Flask
       - type: Label
-        label: C++
+        label: MongoDB
       - type: Label
         label: Swift
   - type: DividerSection
