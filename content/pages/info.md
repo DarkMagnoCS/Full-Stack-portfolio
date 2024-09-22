@@ -131,7 +131,7 @@ sections:
       - type: Label
         label: MongoDB
       - type: Label
-        label: Swift
+        label: Figma
   - type: DividerSection
     styles:
       self:
