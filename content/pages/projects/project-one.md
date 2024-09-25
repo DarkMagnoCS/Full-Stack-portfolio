@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Fourth-Rock-Weather
+title: Mars Weather App
 colors: colors-a
 date: '2024-10-08'
 client: NASA API project
