@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Fourth-Rock-Weather
 colors: colors-a
-date: '2021-10-15'
+date: '2021-01-15'
 client: NASA API project
 description: >-
   A react page using a NASA API to show weather report from  NASA’s InSight Mars
