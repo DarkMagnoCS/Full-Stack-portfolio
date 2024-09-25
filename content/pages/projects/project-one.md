@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Mars_nasa_jpl_scan.jpg
+  url: /images/mobidark.png
   altText: Project image
 ---
 
