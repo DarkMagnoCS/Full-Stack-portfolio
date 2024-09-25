@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Login.png
+  url: /images/androidmenu.png
   altText: Project image
 ---
 ## Features
