@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/mobidark.png
+  url: /images/interface.png
   altText: Project image
 bottomSections: []
 metaTags: []
