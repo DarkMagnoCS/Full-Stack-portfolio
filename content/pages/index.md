@@ -106,6 +106,7 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
+      - content/pages/projects/skycluster.md
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
