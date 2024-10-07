@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Mars Weather App
+title: The Sky Cluster
 date: '2024-10-08'
 client: NASA API project
 description: >-
