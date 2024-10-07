@@ -19,13 +19,27 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-A simple yet interactive Mars Weather App that provides real-time data from NASA's InSight mission. This project fetches the latest weather information from Mars and displays it in a responsive, modern UI. The app also includes light and dark theme modes to enhance the user experience. Currently hosted on AWS. <https://d1f83oux5dkefi.cloudfront.net/>
+## The Sky Cluster
 
-InSight: Mars Weather Service API
-NASA’s InSight Mars lander takes continuous weather measurements (temperature, wind, pressure) on the surface of Mars at Elysium Planitia, a flat, smooth
-plain near Mars’ equator. Please note that there are sometimes problems with the sensors on Mars that result in missing data! If you see a long gap, a search
-result may bring up more information on whether it is a long-lasting problem. Summaries of these data are available at <https://mars.nasa.gov/insight/weather/>.
-This API provides per-Sol summary data for each of the last seven available Sols (Martian Days). As more data from a particular Sol are downlinked from the
-spacecraft (sometimes several days later), these values are recalculated, and consequently may change as more data are received on Earth. Additionally,
-please note that wind and other sensor data may not exist for certain date ranges. You can check out <https://mars.nasa.gov/insight/weather/> and scroll down to
-the 'seasonal weather report' you'll see the gaps where no data exists for some sensors
+We developed The Sky Cluster, a Flutter cross-plataform app that allows users to experience a starry night from an exoplanet of their choice, learn about the planet and create unique constellations. Its importance relies on the complexity of most databases that makes the information inaccesible for most people. The Sky Cluster simplifies NASA's open-coded databases and transforms them into a friendly interface, powering dynamic learning and limitless curiosity, useful for students as well as specialists. In addition, the possibility of drawing new constellations incites imagination and creativity.
+
+<https://github.com/free4fun/NASA2024Tango>
+
+[The Sky Cluster - Detail](https://theskycluster.my.canva.site/detail)
+
+### Challenge:
+
+## 2024 NASA Space Apps: Exosky!
+
+What would the night sky look like if you were standing on one of the many exoplanets discovered by astronomers and space missions? The list of 5500+ exoplanets at the NASA Exoplanet Archive can be combined with the latest star catalogs to translate the location and brightness of millions or even billions of stars to another perspective. From that perspective, anyone could use their imagination to draw constellations, much like our ancestors did on Earth thousands of years ago. Your challenge is to develop an app or interface for students that allows them to choose an exoplanet and then either display an interactive star chart or export a high-quality image for printing or viewing on a computer or virtual reality display, where they can draw and name constellations.
+
+[Visualization](https://youtu.be/-sFJt4Hzbp8?si=njLtQN-Mi_skO6L3) 
+
+
+
+
+
+
+
+
+
