@@ -4,10 +4,9 @@ title: The Sky Cluster
 date: '2024-10-08'
 client: 2024 NASA Space Apps Challenge
 description: >-
-  A flutter crossplataform that allows users to experience a starry night from
-  an exoplanet of their choice, learn about the planet and create unique
-  constellations. Its importance relies on the complexity of most databases that
-  makes the information inaccesible for most people.
+  A flutter cross-plataform app that allows users to experience a starry night
+  from an exoplanet of their choice, learn about the planet and create unique
+  constellations.
 featuredImage:
   type: ImageBlock
   url: /images/dark.png
