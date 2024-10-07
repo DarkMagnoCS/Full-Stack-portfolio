@@ -14,10 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## I’m a developer. I was born in Venezuela, but I've been living in
-      Uruguay for some years now and that’s where I’m based. I’m a gamer,
-      martial artist, calisthenics enthusiast, and ex-musician. When I’m not
-      coding or creating, I like going out on my rollerblades down the beach.
+      ## I’m a developer. I'm from Venezuela, but I've been living in Uruguay
+      for some years now. I’m a gamer, calisthenics enthusiast, and a bookworm.
+      When I’m not coding or training, I like going out on my rollerblades
+      looking down the beach.
 
     styles:
       self:
