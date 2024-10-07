@@ -9,7 +9,7 @@ description: >-
   constellations.
 featuredImage:
   type: ImageBlock
-  url: /images/dark.png
+  url: /images/Nasahackaton2024.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
