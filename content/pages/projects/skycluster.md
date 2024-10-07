@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: The Sky Cluster
 date: '2024-10-08'
-client: NASA API project
+client: 2024 NASA Space Apps Challenge
 description: >-
   A react page using a NASA API to show weather report from  NASA’s InSight Mars
   lander.
