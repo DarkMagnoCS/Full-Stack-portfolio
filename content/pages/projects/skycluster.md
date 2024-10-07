@@ -4,9 +4,10 @@ title: The Sky Cluster
 date: '2024-10-08'
 client: 2024 NASA Space Apps Challenge
 description: >-
-  A react page using a NASA API to show weather report from  NASA’s InSight Mars
-  lander.
-  https://github.com/DarkMagnoCS/Fourth-Rock-Weather/tree/main/mars-weather-hud
+  A flutter crossplataform that allows users to experience a starry night from
+  an exoplanet of their choice, learn about the planet and create unique
+  constellations. Its importance relies on the complexity of most databases that
+  makes the information inaccesible for most people.
 featuredImage:
   type: ImageBlock
   url: /images/dark.png
