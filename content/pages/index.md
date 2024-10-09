@@ -13,12 +13,15 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hi, I''m Alejandro. I''m a full-Stack developer.'
+    title: 'Hi, I''m Alejandro. A passionate Full Stack and Android Developer.'
     subtitle: >-
-      Hey there! I’ve been busy leveling up my skills with certifications in
-      Full Stack Development from IBM, Android Development from Meta, and DevOps
-      from AWS. Along the way, I’ve earned commendations from Google that
-      highlight my expertise
+      I've built responsive web apps, intuitive mobile solutions, all while
+      working on projects that push boundaries. Recently, I teamed up with
+      innovators for NASA's Space Apps Challenge, where we developed an
+      interactive space exploration app. With certifications in Full Stack
+      Development from IBM, Android Development from Meta, and DevOps from AWS,
+      I'm always ready for the next challenge.Let’s build something great
+      together.
     styles:
       self:
         height: auto
