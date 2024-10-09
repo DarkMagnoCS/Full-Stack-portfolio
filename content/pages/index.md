@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hi, I''m Alejandro. I''m a full-Stack developer.'
+    title: 'Hi, I''m Alejandro. A passionate Full Stack and Android Developer.'
     subtitle: >-
       Hey there! I’ve been busy leveling up my skills with certifications in
       Full Stack Development from IBM, Android Development from Meta, and DevOps
