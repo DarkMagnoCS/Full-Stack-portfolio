@@ -14,10 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## I’m a developer. I'm from Venezuela, but I've been living in Uruguay
-      for some years now. I’m a gamer, calisthenics enthusiast, and a bookworm.
-      When I’m not coding or training, I like going out on my rollerblades
-      looking down the beach.
+      ## I’m a technician and a software developer, working with Android
+      applications, fullstack projects and designing user experiences. I'm from
+      Venezuela, living in Uruguay for some years now. I’m a gamer, calisthenics
+      enthusiast, and a bookworm.
 
     styles:
       self:
