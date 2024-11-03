@@ -118,6 +118,10 @@ sections:
 
           *   AUTOMOTIVE TECHNOLOGY TECHNICIAN - ML CENTER
 
+          **Oct 20-Current**
+
+          *   Software Developer - Digital Consultancy Solutions
+
           **2016-2018**
 
           *   TECHNICAL TRANSLATOR - UPWORK
