@@ -118,7 +118,7 @@ sections:
 
           *   AUTOMOTIVE TECHNOLOGY TECHNICIAN - ML CENTER
 
-          **Oct 20-Current**
+          **Oct 2023-Sept 2024**
 
           *   Software Developer - Digital Consultancy Solutions
 
